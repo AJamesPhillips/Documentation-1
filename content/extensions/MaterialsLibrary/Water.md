@@ -14,14 +14,14 @@ video-content:
 
 Water material can be found here: [https://cdn.babylonjs.com/materialsLibrary/babylon.waterMaterial.js](https://cdn.babylonjs.com/materialsLibrary/babylon.waterMaterial.js)
 
-A demo can be found here: PG: <Playground id="#1SLLOJ#20" title="Water Material" description="Example of water material"/>
+A demo can be found here: PG: <Playground id="#1SLLOJ#2261" title="Water Material" description="Example of water material"/>
 
 # Water material by demo
 
-- PG: <Playground id="#1SLLOJ#15" title="Water Material" description="Calm lake"/>
-- PG: <Playground id="#1SLLOJ#17" title="Water Material" description="Ocean, play with waves"/>
-- PG: <Playground id="#1SLLOJ#18" title="Water Material" description="Deep water, play with water color"/>
-- PG: <Playground id="#1SLLOJ#19" title="Water Material" description="Beach"/>
+- Calm lake: <Playground id="#1SLLOJ#15" title="Water Material" description="Calm lake"/>
+- Ocean: <Playground id="#1SLLOJ#17" title="Water Material" description="Ocean, play with waves"/>
+- Deep water: <Playground id="#1SLLOJ#18" title="Water Material" description="Deep water, play with water color"/>
+- Beach: <Playground id="#1SLLOJ#19" title="Water Material" description="Beach"/>
 
 The water material needs at least only a bump texture to render properly.
 Just create a new reference of the material and assign its bump texture:
